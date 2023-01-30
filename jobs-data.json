@@ -1,0 +1,69 @@
+{
+    "featured_jobs": [
+        {
+            "title": "Software Engineer",
+            "company": "Google",
+            "description": "Develop and maintain software solutions for the company.",
+            "location": "Mountain View, CA",
+            "apply_link": "https://careers.google.com/jobs/results/15817462689297896-software-engineer-google-mountain-view-ca/"
+        },
+        {
+            "title": "Data Scientist",
+            "company": "Facebook",
+            "description": "Develop and implement machine learning models for the company.",
+            "location": "Menlo Park, CA",
+            "apply_link": "https://www.facebook.com/careers/jobs/a0I1200000LZsl2EAD/"
+        },
+        {
+            "title": "Product Manager",
+            "company": "Apple",
+            "description": "Lead the development of new products for the company.",
+            "location": "Cupertino, CA",
+            "apply_link": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=PMGT"
+     
+        },
+     
+                {
+                    "title": "Frontend Developer",
+                    "company": "Acme Inc",
+                    "description": "Develop and maintain web applications using HTML, CSS, and JavaScript.",
+                    "location": "New York, NY",
+                    "apply_link": "https://acmeinc.com/careers/frontend-developer"
+                },
+                {
+                    "title": "Backend Developer",
+                    "company": "XYZ Corp",
+                    "description": "Design and implement server-side logic for web applications using Python, Java or Ruby.",
+                    "location": "San Francisco, CA",
+                    "apply_link": "https://xyzcorp.com/careers/backend-developer"
+                },
+                {
+                    "title": "DevOps Engineer",
+                    "company": "ABC Tech",
+                    "description": "Design and implement automated deployment, scaling, and monitoring of applications.",
+                    "location": "Seattle, WA",
+                    "apply_link": "https://abctech.com/careers/devops-engineer"
+                },
+                {
+                    "title": "Network Engineer",
+                    "company": "Delta Solutions",
+                    "description": "Design and maintain network infrastructure and ensure high availability and security.",
+                    "location": "Chicago, IL",
+                    "apply_link": "https://deltasolutions.com/careers/network-engineer"
+                },
+                {
+                    "title": "Security Analyst",
+                    "company": "SecureTech",
+                    "description": "Conduct security assessments and implement security measures to protect company's assets.",
+                    "location": "Houston, TX",
+                    "apply_link": "https://securetech.com/careers/security-analyst"
+                },
+                {
+                    "title": "Business Analyst",
+                    "company": "Profit Inc",
+                    "description": "Conduct market research and provide insights to inform business decisions.",
+                    "location": "Boston, MA",
+                    "apply_link": "https://profitinc.com/careers/business-analyst"
+                }
+            ]
+        }
